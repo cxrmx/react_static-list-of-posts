@@ -1,0 +1,2 @@
+body{padding:0;margin:0;background-color:purple}.mainTitle{display:flex;justify-content:center;color:#deb887}.name{font-weight:700;font-size:17px}.commentList,.list{list-style:none}.list{display:grid;grid-template-columns:repeat(5,1fr);grid-gap:20px;gap:20px;margin:0;padding:0}.item{padding:10px;border:3px solid #9acd32;border-radius:15px;background-color:orange}
+/*# sourceMappingURL=main.33c008ba.chunk.css.map */
